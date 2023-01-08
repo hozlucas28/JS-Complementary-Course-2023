@@ -30,7 +30,7 @@
     Installation
 </h2>
 <p>
-    Clone the repository, install <a href="https://nodejs.org/es/" target="_blank">Node.js</a> (runtime environment) and use <a href="https://code.visualstudio.com/" target="_blank">Visual Studio Code</a> (code editor). Now, if you want to test a JavaScript file write <code>node &lt;FILE NAME&gt;</code> in a console, and you are going to see a result in your console.
+    Clone the repository, install <a href="https://nodejs.org/es/" target="_blank">Node.js</a> (runtime environment) and use <a href="https://code.visualstudio.com/" target="_blank">Visual Studio Code</a> (code editor). Now, if you want to test a JavaScript file write <code>node &lt;FILE NAME&gt;</code> in a terminal, and you are going to see a result in your terminal.
 </p>
 
 <p>
