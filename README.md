@@ -46,12 +46,6 @@
 <p>
     <ul>
         <li>
-            <a href="https://github.com/hozlucas28/HTML-Course-2022" target="_blank">Repository of HTML course</a>
-        </li>
-        <li>
-            <a href="https://github.com/hozlucas28/CSS-Course-2022" target="_blank">Repository of CSS course</a>
-        </li>
-        <li>
             <a href="https://github.com/hozlucas28/JS-Course-2022" target="_blank">Repository of JS course</a>
         </li>
         <li>
