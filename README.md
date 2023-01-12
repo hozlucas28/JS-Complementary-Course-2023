@@ -51,6 +51,9 @@
         <li>
             <a href="https://github.com/hozlucas28/React-Course-I-2023" target="_blank">Repository of React - I course</a>
         </li>
+        <li>
+            <a href="https://github.com/hozlucas28/React-Course-II-2023" target="_blank">Repository of React - II course</a>
+        </li>
     </ul>
 </p>
 
