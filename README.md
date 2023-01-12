@@ -46,13 +46,13 @@
 <p>
     <ul>
         <li>
-            <a href="https://github.com/hozlucas28/JS-Course-2022" target="_blank">Repository of JS course</a>
-        </li>
-        <li>
             <a href="https://github.com/hozlucas28/React-Course-I-2023" target="_blank">Repository of React - I course</a>
         </li>
         <li>
             <a href="https://github.com/hozlucas28/React-Course-II-2023" target="_blank">Repository of React - II course</a>
+        </li>
+        <li>
+            <a href="https://github.com/hozlucas28/JS-Course-2022" target="_blank">Repository of JS course</a>
         </li>
     </ul>
 </p>
