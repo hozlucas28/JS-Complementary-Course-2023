@@ -55,6 +55,30 @@
             <a href="https://github.com/hozlucas28/React-Course-III-2023" target="_blank">Repository of React - III course</a>
         </li>
         <li>
+            <a href="https://github.com/hozlucas28/React-Course-IV-2023" target="_blank">Repository of React - IV course</a>
+        </li>
+        <li>
+            <a href="https://github.com/hozlucas28/React-Course-V-2023" target="_blank">Repository of React - V course</a>
+        </li>
+        <li>
+            <a href="https://github.com/hozlucas28/React-Course-VI-2023" target="_blank">Repository of React - VI course</a>
+        </li>
+        <li>
+            <a href="https://github.com/hozlucas28/React-Course-VII-2023" target="_blank">Repository of React - VII course</a>
+        </li>
+        <li>
+            <a href="https://github.com/hozlucas28/React-Course-VIII-2023" target="_blank">Repository of React - VIII course</a>
+        </li>
+        <li>
+            <a href="https://github.com/hozlucas28/React-Course-IX-2023" target="_blank">Repository of React - IX course</a>
+        </li>
+        <li>
+            <a href="https://github.com/hozlucas28/Next-Course-I-2023" target="_blank">Repository of Next.js - I course</a>
+        </li>
+        <li>
+            <a href="https://github.com/hozlucas28/Next-Course-II-2023" target="_blank">Repository of Next.js - II course</a>
+        </li>
+        <li>
             <a href="https://github.com/hozlucas28/JS-Course-2022" target="_blank">Repository of JS course</a>
         </li>
     </ul>
