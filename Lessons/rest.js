@@ -2,10 +2,6 @@
  * APUNTES:
  * 		   El parámetro rest de una función siempre deber estar definido
  * 		   como ultimo parámetro.
- *
- *
- * IMPORTANTE:
- *  			  - XXX.
 -------------------------------------------------------------------------- */
 
 const rest = (a, b, ...args) => {

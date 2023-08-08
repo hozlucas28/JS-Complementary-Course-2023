@@ -5,10 +5,6 @@
  *         con un valor 'undefined'. Mientras que las definidas con 'let' y
  *         'const' son declaradas en las lineás donde fueron definidas,
  *         siendo 'const' inmutable.
- *
- *
- * IMPORTANTE:
- *  			  - XXX.
 -------------------------------------------------------------------------- */
 
 var myVar = '¡Hola Mundo!';

@@ -1,8 +1,4 @@
 /* --------------------------------------------------------------------------
- * APUNTES:
- * 		   XXX.
- *
- *
  * IMPORTANTE:
  *  			  - Para utilizar la segunda forma de importación
  *                  los archivos de origen y destino deben tener la

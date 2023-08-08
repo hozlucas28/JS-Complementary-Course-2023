@@ -1,8 +1,4 @@
 /* --------------------------------------------------------------------------
- * APUNTES:
- * 		   XXX.
- *
- *
  * IMPORTANTE:
  *  			  - <filter()> = Devuelve los valores que cumplen con la condición.
  *  			  - <map()> = Aplica una operación a cada elemento de un arreglo.
